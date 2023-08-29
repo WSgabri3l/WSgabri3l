@@ -1,6 +1,15 @@
-- Hello, Name's Gabriel. Actually I'm in some TI courses, one about Arduino, another about Cybersecurity and the main is a Full-Stack.
-  I like things about Hacking, Game Development and Hardware.
-  Well, that's it. :3
+# **Hello! My name is Gabriel and...**
+
+*Actually I'm in a technical computer course and studyind cybersecurity.*
+
+*Also I like games' soundtrack.*
+
+You can find me there:
+
+:camera: [Instagram](https://instagram.com/gabri_el_333?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D) :camera:
+
+![](https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif)
+
 
 
 <!---
