@@ -1,6 +1,6 @@
 # **Hello! My name is Gabriel and...**
 
-*Actually I'm in a technical computer course and studyind cybersecurity.*
+*Actually I'm at a technical computer course and studyind cybersecurity.*
 
 *Also I like games' soundtrack.*
 
