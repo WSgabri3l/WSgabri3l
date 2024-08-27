@@ -31,8 +31,8 @@ Hello and wellcome to my GitHub Profile! Currently I'm a Web Development Student
 
 ### ✨ Favorite Projects
 
-- **[Projeto Integrador Wain](https://github.com/WSgabri3l/Wain):** Front-End de uma biblioteca de Imagens
-- **[Projeto Front-End Clínica](https://github.com/WSgabri3l/Clinica-Front-End):** Front-End de uma Clínica de Poções
+- **[Projeto Integrador Wain](https://github.com/WSgabri3l/Wain):** Image library Front-End 
+- **[Projeto Front-End Clínica](https://github.com/WSgabri3l/Clinica-Front-End):** Clinic Front-End 
 
 ---
 
