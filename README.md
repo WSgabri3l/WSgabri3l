@@ -28,7 +28,7 @@ Hello and wellcome to my GitHub Profile! Currently I'm a Web Development Student
 </br>
 
 ---
-Celebrate_Now-FrontEnd/tree/main
+
 ### ✨ Favorite Projects
 
 - **[Back-End Celebrate Now](https://github.com/WSgabri3l/Celebrate_Now-BackEnd):** Marriage Planner System
