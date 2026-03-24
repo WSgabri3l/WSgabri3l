@@ -28,9 +28,11 @@ Hello and wellcome to my GitHub Profile! Currently I'm a Web Development Student
 </br>
 
 ---
-
+Celebrate_Now-FrontEnd/tree/main
 ### ✨ Favorite Projects
 
+- **[Back-End Celebrate Now](https://github.com/WSgabri3l/Celebrate_Now-BackEnd):** Marriage Planner System
+- **[Front-End Celebrate Now](https://github.com/WSgabri3l/Celebrate_Now-FrontEnd/tree/main):** Marriage Planner System
 - **[Projeto Integrador Wain](https://github.com/WSgabri3l/Wain):** Image library Front-End 
 - **[Projeto Front-End Clínica](https://github.com/WSgabri3l/Clinica-Front-End):** Clinic Front-End 
 
